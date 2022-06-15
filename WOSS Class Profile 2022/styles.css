@@ -1,5 +1,6 @@
 #intro {
-    background-color: blue;
+    background: rgb(0,2,65);
+    background: linear-gradient(90deg, rgba(0,2,65,1) 0%, rgba(19,33,128,1) 35%, rgba(40,126,207,1) 100%);
     padding: 5%;
     
     max-width: 100%;
@@ -11,7 +12,7 @@
 }
 
 #intro-text {
-    color: #EBAD29; 
+    color: #f7cb4d; 
     display: table-cell;
 
     width: 100%;
