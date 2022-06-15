@@ -8,7 +8,6 @@
     display: flex;
     justify-content: center;
 
-
 }
 
 #intro-text {
@@ -20,5 +19,28 @@
     margin-right: 5%;
 
     font-family: 'Joan', serif;
+}
+
+#section1-title {
+   
+    color: #132180;
+
+    text-align: left;
+    width:100%;
+    margin-left: 5%;
+
+    font-family: 'Joan', serif;
+}
+
+#section1-text {
+    color: #132180;
+
+    text-align: left;
+    width:80%;
+    margin-left: 5%;
+
+    font-family: 'Joan', serif;
+}
+
 }
 
