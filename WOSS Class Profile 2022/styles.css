@@ -1,0 +1,23 @@
+#intro {
+    background-color: blue;
+    padding: 5%;
+    
+    max-width: 100%;
+
+    display: flex;
+    justify-content: center;
+
+
+}
+
+#intro-text {
+    color: #EBAD29; 
+    display: table-cell;
+
+    width: 100%;
+    text-align: center;
+    margin-right: 5%;
+
+    font-family: 'Joan', serif;
+}
+
