@@ -17,6 +17,7 @@
     width: 100%;
     text-align: center;
     margin-right: 5%;
+<<<<<<< HEAD
 
     font-family: 'Joan', serif;
 }
@@ -49,6 +50,10 @@
 #our_pics {
     float: left;
     width: 33.3%;
+=======
+
+    font-family: 'Joan', serif;
+>>>>>>> parent of 625815e (added first results)
 }
 
 #section1-title {
@@ -72,12 +77,15 @@
     font-family: 'Joan', serif;
 }
 
+<<<<<<< HEAD
 }
 
 #explanation {
     float: left;
     width: 33.3%;
     text-align: center;
+=======
+>>>>>>> parent of 625815e (added first results)
 }
 
 #WOSS_pics {
