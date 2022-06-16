@@ -1,3 +1,7 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
 #intro {
     background: rgb(0,2,65);
     background: linear-gradient(90deg, rgba(0,2,65,1) 0%, rgba(19,33,128,1) 35%, rgba(40,126,207,1) 100%);
@@ -17,30 +21,34 @@
     width: 100%;
     text-align: center;
     margin-right: 5%;
+}
 
-    font-family: 'Joan', serif;
+/* Section 1 starts here */
+#section1, #section2 {
+    color: #132180;
+    padding-left: 5%;
+    text-align: left;
+    margin-top: 5%;
+    margin-bottom: 5%;
 }
 
 #section1-title {
-   
-    color: #132180;
-
-    text-align: left;
     width:100%;
-    margin-left: 5%;
-
-    font-family: 'Joan', serif;
 }
 
-#section1-text {
-    color: #132180;
-
-    text-align: left;
-    width:80%;
-    margin-left: 5%;
-
-    font-family: 'Joan', serif;
+#section1-text, #section2-text {
+    width:70%;
+    color: black;
+    line-height: 2;
 }
 
+/* Section 2 starts here */
+#section2-result {
+    display: flex;
+}
+
+#section2-text {
+    width: 50%; 
+    margin-right: 10%;
 }
 
