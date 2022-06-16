@@ -21,26 +21,54 @@
     font-family: 'Joan', serif;
 }
 
-#section1-title {
-   
+#disclaimer {
     color: #132180;
 
     text-align: left;
     width:100%;
-    margin-left: 5%;
+    margin-left:2%;
 
     font-family: 'Joan', serif;
+    font-style:italic;
 }
 
-#section1-text {
+#intro_explanation {
+    display: table-row;
+
     color: #132180;
 
-    text-align: left;
-    width:80%;
     margin-left: 5%;
 
     font-family: 'Joan', serif;
 }
 
+#our_pics {
+    float: left;
+    width: 33.3%;
 }
+
+#explanation {
+    float: left;
+    width: 33.3%;
+    text-align: center;
+}
+
+#WOSS_pics {
+    float: left;
+    width : 33.3%;
+}
+
+#section1 {
+   
+    color: #132180;
+
+    display:table-row;
+    text-align: left;
+    margin-left: 5%;
+
+    font-family: 'Joan', serif;
+}
+
+
+
 
